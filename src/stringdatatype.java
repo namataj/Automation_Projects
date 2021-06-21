@@ -21,5 +21,16 @@ public class stringdatatype {
 		
 			
 			}
+		// an array of elements
+		
+		int y[]= {1,2,3,4,5};
+		
+		for (int i = 0; i < y.length; i++) {
+			System.out.println(y[i]);
+		}
+		
+		
+		
+		
 		}
 }
